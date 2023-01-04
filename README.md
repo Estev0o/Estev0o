@@ -1,4 +1,3 @@
-vinicius-estevo
 Hi there, I'm Vinicius Estevo 👋
 
 💻 I'm becoming a developer front-end<br>
