@@ -1,9 +1,8 @@
 Hi there, I'm Vinicius Estevo 👋
 
 💻 I'm becoming a developer front-end<br>
-🎓I'm Studying at FATEC Bragança Paulista - Jornalista Omair Fagundes de Oliveira University<br>
-my course is GTI 
-✉ <br>E-mail contact: viniestevo33@gmail.com <br>
+🎓I'm studying at FATEC Bragança Paulista - Jornalista Omair Fagundes de Oliveira University<br>
+my course is GTI - Gestao da tecnologia de informação( eng- Information technology management)
 
 My medias👇🏻💖
 
