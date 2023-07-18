@@ -22,7 +22,7 @@ Hi there, I'm Vinicius Estevo 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
 </div>
-
+<br>
 My medias👇🏻💖
 <div>
 <a href="https://www.instagram.com/vini_estevo" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
