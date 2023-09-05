@@ -4,7 +4,7 @@ Hi there, I'm Vinicius Estevo 👋
   📚 I'm studying at FATEC Bragança Paulista - Jornalista Omair Fagundes de Oliveira University
   my course is GTI - Gestao da tecnologia de informação( eng- Information technology management)🎓<br>
   🎯 Goals: Become a developer and in the future help people bring technology to them<br>
-  🎲 Fun fact: I love spleep</p>
+  🎲 Fun fact: I love sleep, </p>
 
  <div>
    <a href="https://github.com/Estev0o"
