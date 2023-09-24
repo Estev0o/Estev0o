@@ -1,19 +1,19 @@
 <h1 align="left"> Hi there, I'm Vinicius Estevo 👋 </h1>
-###
+
 <p align="left">💻 I'm becoming a developer front-end<br>
   📚 I'm studying at FATEC Bragança Paulista - Jornalista Omair Fagundes de Oliveira University
   my course is GTI - Gestao da tecnologia de informação( eng- Information technology management)🎓<br>
   🎯 Goals: Become a developer and in the future help people bring technology to them<br>
   🎲 Fun fact: I love sleep </p>
-  ###
+
 <div>
    <a href="https://github.com/Estev0o"
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estev0o&show_icons=true&theme=midnight-  purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estev0o&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
-###
+
 <h2 align="left">I code with </h2>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -21,11 +21,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
 </div>
 <br>
-###
+
 <div align="left">
 <h2>My medias 👇🏻💖 </h2>
 <br>
