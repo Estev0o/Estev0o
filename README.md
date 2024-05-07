@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there, I'm Vinicius Estevo 👋 </h1>
 
-<p align="left">💻 I'm becoming a developer front-end<br>
+<p align="left">💻 I'm developer .NET<br>
   📚 I'm studying at FATEC Bragança Paulista - Jornalista Omair Fagundes de Oliveira University
   my course is GTI - Gestao da tecnologia de informação( eng- Information technology management)🎓<br>
   🎯 Goals: Become a developer and in the future help people bring technology to them<br>
